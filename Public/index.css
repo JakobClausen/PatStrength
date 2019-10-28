@@ -152,7 +152,7 @@ text-align: center;
 
 .bild1 {
   /* The image used */
-  background-image: url("bild1.jpg");
+  background-image: url("../Images/bild1.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -166,7 +166,7 @@ text-align: center;
 
 .bild2 {
   /* The image used */
-  background-image: url("Bild2.jpg");
+  background-image: url("../Images/Bild2.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -180,7 +180,7 @@ text-align: center;
 
 .bild3 {
   /* The image used */
-  background-image: url("bild3-2.jpg");
+  background-image: url("../Images/bild3-2.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -194,7 +194,7 @@ text-align: center;
 
 .bild4 {
   /* The image used */
-  background-image: url("5.jpg");
+  background-image: url("../Images/5.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -209,7 +209,7 @@ text-align: center;
 
 .bild5 {
   /* The image used */
-  background-image: url("4.jpg");
+  background-image: url("../Images/4.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -224,7 +224,7 @@ text-align: center;
 
 .bild6 {
   /* The image used */
-  background-image: url("6.jpg");
+  background-image: url("../Images/6.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -238,7 +238,7 @@ text-align: center;
 
 .bild7 {
   /* The image used */
-  background-image: url("34.jpg");
+  background-image: url("../Images/34.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
@@ -252,7 +252,7 @@ text-align: center;
 
 .bild8 {
   /* The image used */
-  background-image: url("7.jpg");
+  background-image: url("../Images/7.jpg");
   /* Full height */
   height: 100%;
   width: 100%;
