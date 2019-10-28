@@ -2,11 +2,12 @@
 
 My first project i made before starting school. 
 
-<img src="https://media.giphy.com/media/bxg3vfPXvH6CY/source.gif" width="100%">
+<img src="https://media.giphy.com/media/bxg3vfPXvH6CY/source.gif" width="50%">
 
 
 ## Usage
 Visit the site -- <a>http://patstrength.se/</a>
+Use inscpect tool to see the website in mobile view.
 
 ## Built With
 
