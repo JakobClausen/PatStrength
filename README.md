@@ -3,11 +3,11 @@
 My first project i made before starting school. 
 
 <p align="center">
-<img src="/Images/gitimgone.png" alt="Class timer by Jakob Clausen" width="738">
+<img src="/Images/gitimgone.png" alt="Class timer by Jakob Clausen" width="438">
 </p>     
      
 <p align="center">         
- <img src="/Images/gitimgtwo.png" alt="Class timer by Jakob Clausen" width="738">
+ <img src="/Images/gitimgtwo.png" alt="Class timer by Jakob Clausen" width="438">
 </p>
 
 
