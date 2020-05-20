@@ -2,7 +2,14 @@
 
 My first project i made before starting school. 
 
-<img src="https://media.giphy.com/media/bxg3vfPXvH6CY/source.gif" width="50%">
+<p align="center">
+<img src="/Images/gitimgone.png" alt="Class timer by Jakob Clausen" width="738">
+</p>     
+     
+<p align="center">         
+ <img src="/Images/gitimgtwo.png" alt="Class timer by Jakob Clausen" width="738">
+</p>
+
 
 
 ## Usage
