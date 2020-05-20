@@ -6,8 +6,7 @@ My first project i made before starting school.
 
 
 ## Usage
-Visit the site -- <a>http://patstrength.se/</a>
-Use inscpect tool to see the website in mobile view.
+Website no longer active
 
 ## Built With
 
